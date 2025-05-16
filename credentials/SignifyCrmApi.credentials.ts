@@ -1,6 +1,6 @@
 import type { ICredentialType, INodeProperties, ICredentialTestRequest, IAuthenticateGeneric } from 'n8n-workflow';
 
-export class SignifyCrmApi implements ICredentialType {
+export default class SignifyCrmApi implements ICredentialType {
 
 	name = 'signifyCrmApi';
 	displayName = 'SignifyCRM API';

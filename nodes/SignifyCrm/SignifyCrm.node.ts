@@ -31,7 +31,7 @@ import type {
 	CamelCaseResource,
 } from './types';
 
-export class SignifyCrm implements INodeType {
+export default class SignifyCrm implements INodeType {
 	description: INodeTypeDescription = {
 		// Basic node details will go here
         displayName: 'SignifyCRM',

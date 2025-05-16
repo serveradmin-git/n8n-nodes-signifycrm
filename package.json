@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-signifycrm",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "SignifyCRM n8n nodes",
   "keywords": [
     "n8n-community-node-package", "n8n-nodes", "n8n", "signifycrm", "crm"
